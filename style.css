@@ -78,6 +78,12 @@ body {
   background-image: url(https://s4.gifyu.com/images/giovanni.gif)
 }
 
+body{
+
+touch-action:none;
+
+}
+
 .div-wrapper {
   position: relative;
   height: 300px;
